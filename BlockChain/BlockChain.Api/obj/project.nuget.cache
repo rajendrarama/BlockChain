@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ckVFH5tZmL6BHBo+J4uhb27pzq1yEtBY+N50WPCN39SHf9qSDnDCCRgy/aHaaqIDcgKUNjxUeEEFmLQq0Z6g9A==",
+  "dgSpecHash": "I2x1JUGogUc0wQAmN6IgE4061+YzYX8G9cs8IZMePktS9hh0eZvp5gF2ysu6gdvxYbFkjGfffkFNvg6v2D2QNg==",
   "success": true,
-  "projectFilePath": "C:\\temp\\blockchain-signalr-demo\\BlockChain\\BlockChain\\BlockChain.Api\\BlockChain.Api.csproj",
+  "projectFilePath": "C:\\temp\\blockchain-signalr-demo\\BlockChain\\BlockChain.Api\\BlockChain.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.authorization\\2.2.0\\microsoft.aspnetcore.authorization.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.connections.abstractions\\2.2.0\\microsoft.aspnetcore.connections.abstractions.2.2.0.nupkg.sha512",

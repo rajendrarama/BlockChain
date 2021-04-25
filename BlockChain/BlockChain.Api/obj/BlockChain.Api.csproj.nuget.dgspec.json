@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\temp\\blockchain-signalr-demo\\BlockChain\\BlockChain\\BlockChain.Api\\BlockChain.Api.csproj": {}
+    "C:\\temp\\blockchain-signalr-demo\\BlockChain\\BlockChain.Api\\BlockChain.Api.csproj": {}
   },
   "projects": {
-    "C:\\temp\\blockchain-signalr-demo\\BlockChain\\BlockChain\\BlockChain.Api\\BlockChain.Api.csproj": {
+    "C:\\temp\\blockchain-signalr-demo\\BlockChain\\BlockChain.Api\\BlockChain.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\temp\\blockchain-signalr-demo\\BlockChain\\BlockChain\\BlockChain.Api\\BlockChain.Api.csproj",
+        "projectUniqueName": "C:\\temp\\blockchain-signalr-demo\\BlockChain\\BlockChain.Api\\BlockChain.Api.csproj",
         "projectName": "BlockChain.Api",
-        "projectPath": "C:\\temp\\blockchain-signalr-demo\\BlockChain\\BlockChain\\BlockChain.Api\\BlockChain.Api.csproj",
+        "projectPath": "C:\\temp\\blockchain-signalr-demo\\BlockChain\\BlockChain.Api\\BlockChain.Api.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\temp\\blockchain-signalr-demo\\BlockChain\\BlockChain\\BlockChain.Api\\obj\\",
+        "outputPath": "C:\\temp\\blockchain-signalr-demo\\BlockChain\\BlockChain.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Xamarin\\NuGet\\",
